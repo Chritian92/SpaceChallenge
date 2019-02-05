@@ -10,7 +10,7 @@ https://www.lucidchart.com/invitations/accept/68c56805-e9b3-4283-bbb7-977fa2a936
 
 <p align="center">
   <a href="https://ibb.co/zFPSQ7m">
-  <img alt="model" width="628" height="192" src="https://ibb.co/zFPSQ7m" />
+  <img alt="model" width="628" height="192" src="https://i.ibb.co/MfPRZGg/model.png" />
   </a>
 </p>
 
