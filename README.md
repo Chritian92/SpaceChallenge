@@ -5,8 +5,11 @@
 This project main goal is ... 
 
 # Space Challenge Class Diagram
+
+https://www.lucidchart.com/invitations/accept/68c56805-e9b3-4283-bbb7-977fa2a9368e
+
 <p align="center">
-  <a href="https://www.lucidchart.com/invitations/accept/68c56805-e9b3-4283-bbb7-977fa2a9368e">
+  <a href="https://ibb.co/zFPSQ7m">
   <img alt="model" width="628" height="192" src="https://ibb.co/zFPSQ7m" />
   </a>
 </p>
